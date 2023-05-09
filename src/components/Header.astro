@@ -1,15 +1,15 @@
 ---
 import HeaderLink from './HeaderLink.astro';
-import { SITE_TITLE } from '../consts';
+import { HOMEPAGE_URL } from '../config'
 ---
 
 <header class="fixed w-pq2 z-20 backdrop-blur-md">
 <div class="mx-auto max-w-3xl">
 <nav class="flex items-center gap-3 text-base">
-	<h2>
-		{SITE_TITLE}
-	</h2 class="font-semibold tracking-tighter p-2 font-mplus text-lg">
-		<HeaderLink href="/about">About</HeaderLink>
+   <h2 class="font-semibold tracking-tighter p-2 font-mplus text-lg">
+     David Mills
+	</h2>
+		<HeaderLink href={HOMEPAGE_URL}>About</HeaderLink>
 		<HeaderLink href="https://github.com/withastro/astro" target="_blank">Source</HeaderLink>
 	</nav>
   </div>
