@@ -6,6 +6,6 @@ import tailwind from '@astrojs/tailwind'
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://www.youtube.com/millz98',
+  site: 'https://uses.craftz.dog/',
   integrations: [sitemap(), react(), image(), tailwind()]
 })

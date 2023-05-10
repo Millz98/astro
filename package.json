@@ -2,6 +2,7 @@
   "name": "Millz98-uses",
   "type": "module",
   "version": "0.0.1",
+  "license": "MIT",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
