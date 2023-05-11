@@ -8,7 +8,8 @@
     "start": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "live-import": "node --experimental-vm-modules tools/import.mjs"
   },
   "dependencies": {
     "@altano/remark-astrojs-image-use-component": "^0.0.1-alpha.0",
