@@ -3,4 +3,4 @@
 
 export const SITE_TITLE = 'My coding journey - Dave Mills'
 export const SITE_DESCRIPTION = 'A curated list of the tech I use'
-export const HOMEPAGE_URL = 'https://www.youtube.com/millz98'
+export const HOMEPAGE_URL = 'https://www.facebook.com/Gmillz98'
