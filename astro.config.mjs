@@ -5,13 +5,6 @@ import image from '@astrojs/image'
 import tailwind from '@astrojs/tailwind'
 import addClasses from 'rehype-add-classes'
 
-export default {
-  env: {
-    SITE_TITLE: "Dave's Blog",
-  },
-};
-
-
 // https://astro.build/config
 export default defineConfig({
   site: 'https://uses.craftz.dog/',
@@ -23,6 +16,9 @@ export default defineConfig({
     }),
     tailwind()
   ],
+  env: {
+    SITE_TITLE: 'Your Site Title'
+  },
   markdown: {
     rehypePlugins: [
       [
