@@ -5,7 +5,7 @@ public: true
 layout: ../../layouts/BlogPost.astro
 title: HTML..my very first failure
 createdAt: 1683832658702
-updatedAt: 1683853596235
+updatedAt: 1683948425244
 tags: []
 heroImage: /posts/blog-post2_thumbnail.png
 ---
@@ -26,7 +26,7 @@ Most people at that time, acted like I needed to get some kind of degree all the
 
 I was stubborn....(Still am)
 
-What I failed to realize was that what webistes need the most besides <h1>, <div> and <p> tags is it needed CSS...and that was one thing I didn't even know anything about. I didn't even know it was reqired at the time. 
+What I failed to realize was that what webistes need the most besides h1, div and p tags is it needed CSS...and that was one thing I didn't even know anything about. I didn't even know it was reqired at the time. 
   
 I felt like a huge failure and at the time I didn't believe in myself enough to continue, because like most I hate failing on things that I work really hard on. 
   
