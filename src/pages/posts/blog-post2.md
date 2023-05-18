@@ -5,7 +5,7 @@ public: true
 layout: ../../layouts/BlogPost.astro
 title: HTML..my very first failure
 createdAt: 1683832658702
-updatedAt: 1683948425244
+updatedAt: 1684202655635
 tags: []
 heroImage: /posts/blog-post2_thumbnail.png
 ---
