@@ -5,7 +5,7 @@ public: true
 layout: ../../layouts/BlogPost.astro
 title: HTML..my very first failure
 createdAt: 1683832658702
-updatedAt: 1684385968722
+updatedAt: 1684480282254
 tags: []
 heroImage: /posts/blog-post2_thumbnail.png
 ---
@@ -34,7 +34,9 @@ I felt like a huge failure and at the time I didn't believe in myself enough to 
   
 Till next time my friends, safe travels. 
 
+test line again to see if this worked. 
 
+Lets add another line!!
 
 
 
