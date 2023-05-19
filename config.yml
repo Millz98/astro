@@ -1,0 +1,12 @@
+backend:
+  name: git-gateway
+
+collections:
+  - name: blog
+    label: Blog
+    folder: astro/src/pages/posts
+    create: true
+    fields:
+      - { name: title, label: Title, widget: string }
+      - { name: body, label: Body, widget: markdown }
+      # Add more fields as needed
