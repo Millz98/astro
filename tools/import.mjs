@@ -5,9 +5,9 @@ const { INKDROP_USERNAME, INKDROP_PASSWORD, INKDROP_PORT, INKDROP_BOOKID } =
   process.env
 
 const liveExport = new LiveExporter({
-  username: INKDROP_USERNAME,
-  password: INKDROP_PASSWORD,
-  port: Number(INKDROP_PORT)
+  username: 'dave_m86@hotmail.com',
+  password: 'f-947U@Br9bjdSR',
+  port: 19840
 })
 
 const basePath = `./src/pages/posts`
