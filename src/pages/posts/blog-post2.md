@@ -5,7 +5,7 @@ public: true
 layout: ../../layouts/BlogPost.astro
 title: HTML..my very first failure
 createdAt: 1683832658702
-updatedAt: 1684862310159
+updatedAt: 1684910307456
 tags: []
 heroImage: /posts/blog-post2_thumbnail.png
 ---
@@ -32,6 +32,7 @@ I felt like a huge failure and at the time I didn't believe in myself enough to 
   
  Now although I am primarily a web developer I do tend to dabble in other languages sometimes when I really want to learn more, but next post we will talk about my time spent playing around with Java, and the 3D engine I couldn't finish making (still to this day the camera bug still plagues me). 
   
-Till next time my friends, safe travels.  
+Till next time my friends, safe travels. 
 
+ 
 
