@@ -6,7 +6,8 @@ layout: ../../layouts/BlogPost.astro
 title: Java..the next challenger
 createdAt: 1684910372426
 updatedAt: 1685061336622
-tags: []
+tags:
+  - Dev
 heroImage: /posts/blog-post3_thumbnail.jpg
 ---
 

@@ -6,7 +6,8 @@ layout: ../../layouts/BlogPost.astro
 title: Falling in love all over again
 createdAt: 1685651197022
 updatedAt: 1685654119386
-tags: []
+tags:
+  - Dev
 heroImage: /posts/blog-post4_thumbnail.jpg
 ---
 

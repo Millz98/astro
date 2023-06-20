@@ -6,7 +6,8 @@ layout: ../../layouts/BlogPost.astro
 title: Oh where do we start
 createdAt: 1683770068179
 updatedAt: 1683833219886
-tags: []
+tags:
+  - Dev
 heroImage: /posts/blog-post_thumbnail.jpg
 ---
 

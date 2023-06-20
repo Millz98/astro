@@ -6,7 +6,8 @@ layout: ../../layouts/BlogPost.astro
 title: HTML..my very first failure
 createdAt: 1683832658702
 updatedAt: 1684910307456
-tags: []
+tags:
+  - Dev
 heroImage: /posts/blog-post2_thumbnail.png
 ---
 
